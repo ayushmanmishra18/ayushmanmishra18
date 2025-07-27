@@ -1,4 +1,5 @@
 <!-- Ayushman Mishra - Profile README -->
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/113287027?v=4" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px #00ADB5;" alt="Ayushman Profile Picture">
 </p>
@@ -20,17 +21,16 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-3rd%20Year%20B.Tech%20CSE-00ADB5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student Badge"/>
+  <img src="https://img.shields.io/badge/3rd%20Year%20B.Tech%20CSE-00ADB5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student Badge"/>
 </p>
 
 <div align="center" style="background: #0D1117; border-radius: 15px; padding: 20px; box-shadow: 0px 0px 20px rgba(0,173,181,0.4); width: 90%; margin: auto;">
 
-### 👨‍💻 Who Am I?
-
 - 🎓 **3rd Year B.Tech CSE** at *Jaypee Institute of Information Technology*  
-- 💻 Passionate about **MERN Development** & **AI Integrations & CyberSecurity**  
-- 🔐 Exploring **Offensive Security, SIEM, Digital Forensics**  
-- 🛠 Actively building **real-world projects**:
+- 💻 Building with **MERN Stack, AI (Gemini, OpenAI, LangChain)**  
+- 🛡️ Exploring **Offensive Security, SIEM, Digital Forensics**  
+- 🛠 Currently working on: **YTBuddy, AIview, Notekar, MyShop, SIH Cyber Triage Tool**  
+
 </div>
 
 ---
@@ -47,13 +47,13 @@
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"><br>
         <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white">
         <img src="https://img.shields.io/badge/ChromaDB-8B00FF?style=flat&logo=sqlite&logoColor=white"><br>
-        <p>AI-powered YouTube video analysis with **summarization & Q&A** using Gemini & LangChain.</p>
+        <p>AI-powered YouTube analysis app with **video summarization and Q&A** using Gemini & LangChain.</p>
       </td>
       <td align="center" width="50%">
         <h3>🔎 <a href="https://aiviewer.vercel.app/">AIview</a></h3>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white"><br>
-        <p>AI-powered code reviews for GitHub PRs with exportable PDF reports.</p>
+        <p>AI-powered **code reviews** for GitHub PRs with **PDF reports**.</p>
       </td>
     </tr>
     <tr>
@@ -61,22 +61,21 @@
         <h3>🗒️ <a href="https://notekar-frontend1.onrender.com/">Notekar</a></h3>
         <img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/JWT_Security-FF6C37?style=flat&logo=jsonwebtokens&logoColor=white"><br>
-        <p>Secure note-taking app with authentication & dynamic UI.</p>
+        <p>Secure note-taking app with **JWT auth & interactive UI**.</p>
       </td>
       <td align="center" width="50%">
         <h3>🛒 <a href="https://github.com/ayushmanmishra18/MyShop">MyShop</a></h3>
         <img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI_Chatbot-412991?style=flat&logo=openai&logoColor=white"><br>
-        <p>E-commerce app with AI chatbot and role-based access.</p>
+        <p>E-commerce platform with **AI chatbot & role-based access**.</p>
       </td>
     </tr>
   </table>
 </p>
 
 ---
----
 
-## 🔭 Tech Stack & Tools
+## 🔧 Tech Stack  
 
 <div align="center">
 
@@ -86,7 +85,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -110,23 +108,23 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 </div>
 
 ---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanmishra18&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushmanmishra18&theme=react&hide_border=true&background=0D1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanmishra18&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushmanmishra18&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmanmishra18&theme=react-dark&area=true&hide_border=true" width="95%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmanmishra18&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanmishra18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
 </p>
 
 ---
