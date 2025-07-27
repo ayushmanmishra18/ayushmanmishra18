@@ -19,11 +19,19 @@
 
 ## 🧠 About Me  
 
-- 🎓 3rd Year B.Tech CSE @ Jaypee Institute of Information Technology  
-- 💻 MERN + AI (Gemini, OpenAI, LangChain) Developer  
-- 🔐 Building skills in **Offensive Security, SIEM, Digital Forensics**  
-- 🛠 Projects: **YTBuddy, AIview, Notekar, MyShop, SIH Cyber Triage Tool**  
-- 🎯 Currently pursuing: **IBM Cybersecurity Analyst Certificate**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-3rd%20Year%20B.Tech%20CSE-00ADB5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student Badge"/>
+</p>
+
+<div align="center" style="background: #0D1117; border-radius: 15px; padding: 20px; box-shadow: 0px 0px 20px rgba(0,173,181,0.4); width: 90%; margin: auto;">
+
+### 👨‍💻 Who Am I?
+
+- 🎓 **3rd Year B.Tech CSE** at *Jaypee Institute of Information Technology*  
+- 💻 Passionate about **MERN Development** & **AI Integrations & CyberSecurity**  
+- 🔐 Exploring **Offensive Security, SIEM, Digital Forensics**  
+- 🛠 Actively building **real-world projects**:
+</div>
 
 ---
 
@@ -66,7 +74,50 @@
 </p>
 
 ---
+---
 
+## 🔭 Tech Stack & Tools
+
+<div align="center">
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### **Backend & AI**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8B00FF?style=for-the-badge&logo=sqlite&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
+
+### **DevOps / Hosting**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA55?style=for-the-badge&logo=huggingface&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### **Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
