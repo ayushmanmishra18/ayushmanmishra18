@@ -1,8 +1,5 @@
 <!-- Ayushman Mishra - Profile README -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/113287027?v=4" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px #00ADB5;" alt="Ayushman Profile Picture">
-</p>
 
 <h1 align="center">Hey, I'm <span style="color:#00ADB5">Ayushman Mishra</span> 👋</h1>
 
