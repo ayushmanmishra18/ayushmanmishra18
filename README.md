@@ -1,6 +1,5 @@
 <!-- Ayushman Mishra - Profile README -->
 
-
 <h1 align="center">Hey, I'm <span style="color:#00ADB5">Ayushman Mishra</span> 👋</h1>
 
 <p align="center">
@@ -25,6 +24,7 @@
 
 - 🎓 **3rd Year B.Tech CSE** at *Jaypee Institute of Information Technology*  
 - 💻 Building with **MERN Stack, AI (Gemini, OpenAI, LangChain)**  
+- 🗺️ Developing real-time tools like **TrackIn (Live GPS Tracker)**  
 - 🛡️ Exploring **Offensive Security, SIEM, Digital Forensics**  
 - 🛠 Currently working on: **YTBuddy, AIview, Notekar, MyShop, SIH Cyber Triage Tool**  
 
@@ -38,28 +38,35 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <h3>📍 <a href="https://trackin-brwd.onrender.com" target="_blank">TrackIn</a></h3>
+        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white">
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"><br>
+        <p>Real-time GPS location tracker with **admin-only visibility** built using Leaflet.js, Socket.IO, and Node.js.</p>
+      </td>
+      <td align="center" width="50%">
         <h3>🎥 <a href="https://github.com/ayushmanmishra18/ytbuddy">YTBuddy</a></h3>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white">
-        <img src="https://img.shields.io/badge/ChromaDB-8B00FF?style=flat&logo=sqlite&logoColor=white"><br>
         <p>AI-powered YouTube analysis app with **video summarization and Q&A** using Gemini & LangChain.</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <h3>🔎 <a href="https://aiviewer.vercel.app/">AIview</a></h3>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white"><br>
         <p>AI-powered **code reviews** for GitHub PRs with **PDF reports**.</p>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%">
         <h3>🗒️ <a href="https://notekar-frontend1.onrender.com/">Notekar</a></h3>
         <img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/JWT_Security-FF6C37?style=flat&logo=jsonwebtokens&logoColor=white"><br>
         <p>Secure note-taking app with **JWT auth & interactive UI**.</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <h3>🛒 <a href="https://github.com/ayushmanmishra18/MyShop">MyShop</a></h3>
         <img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white">
@@ -85,23 +92,22 @@
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### **Backend & AI**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8B00FF?style=for-the-badge&logo=sqlite&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **DevOps / Hosting**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA55?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
