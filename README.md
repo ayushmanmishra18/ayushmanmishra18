@@ -1,92 +1,94 @@
-<!-- Ayushman Mishra - Futuristic GitHub Profile README -->
+<!-- README.md -->
 
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayushman+Mishra+👋;Full+Stack+Developer+🚀;Cybersecurity+Enthusiast+🛡️;AI+Explorer+🤖;Welcome+to+my+GitHub+💻" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Ayushman Mishra</h1>
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Explorer</h3>
 
-<!-- Social Badges -->
 <p align="center">
-  <a href="mailto:ayushmanmishraji1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ayushman-mishra-979595280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
+
+---
+
+## 🧑‍🎓 About Me  
+
+- 🎓 **3rd Year B.Tech CSE** at *Jaypee Institute of Information Technology*  
+- 💻 Skilled in **MERN Stack, AI (Gemini, OpenAI, LangChain)**  
+- 🛡️ Exploring **Offensive Security, Digital Forensics, Cloud Security**  
+- 📚 Preparing for **ISC² Certified in Cybersecurity (CC)** (Nov 2025)  
+- ⚡ Love to build projects combining **AI + Security**  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+<p align="center">
+  
+### 👨‍💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend & AI  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛡️ Cybersecurity Tools  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 🚀 DevOps / Hosting  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🛒 MyShop** | MERN-based e-commerce platform with AI chatbot & role-based access | React, Node.js, MongoDB, OpenAI |
+| **📍 TrackIn** | Real-time GPS location tracker with admin-user view separation | Leaflet.js, Socket.IO, Node.js |
+| **🎥 ytBuddy** | YouTube summarization and transcript extraction tool | React, FastAPI, Gemini AI |
+| **🔎 AIview** | AI-powered code reviewer with Gemini integration | React, LangChain, Gemini |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanmishra18&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanmishra18&layout=compact&theme=radical" height="180em"/>
+</p>
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:ayushmanmishraji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayushman-mishra-979595280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ayushmanmishra18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/ayushmanmishra18"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://v0-beautiful-portfolio-website-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
-
-## 🧠 About Me  
-
-<div align="center" style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; width: 90%; box-shadow: 0px 8px 24px rgba(0,173,181,0.3);">
-  
-🎓 **3rd Year B.Tech CSE** @ *JIIT Noida*  
-💻 Building with **MERN Stack, AI (Gemini, OpenAI, LangChain)**  
-🛡 Exploring **Offensive Security, SIEM & Digital Forensics**  
-🗺 Creator of **TrackIn, YTBuddy, AIview, Notekar, MyShop**  
-🔥 Currently working on **SIH Cyber Triage Tool**  
-
-</div>
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [📍 TrackIn](https://trackin-brwd.onrender.com) | Real-time GPS tracker (admin view only) | Leaflet.js · Socket.IO · Node.js |
-| [🎥 YTBuddy](https://github.com/ayushmanmishra18/ytbuddy) | AI-powered YouTube Summarizer & QnA | React · FastAPI · Gemini |
-| [🔎 AIview](https://aiviewer.vercel.app/) | AI code reviews with PDF reports | React · Gemini API |
-| [🗒️ Notekar](https://notekar-frontend1.onrender.com/) | Secure Note-taking app | MERN · JWT |
-| [🛒 MyShop](https://github.com/ayushmanmishra18/MyShop) | E-commerce with AI Chatbot | MERN · OpenAI |
-
----
-
-## 🔧 Tech Stack  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,next,tailwind,fastapi,nodejs,express,mongodb,mysql,docker,git,vercel,render,linux&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanmishra18&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=ayushmanmishra18&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmanmishra18&theme=radical" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanmishra18&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushmanmishra18/ayushmanmishra18/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
----
-
-## 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:ayushmanmishraji1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ayushman-mishra-979595280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ayushmanmishra18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
+⭐️ From [Ayushman Mishra](https://github.com/ayushmanmishra18)
