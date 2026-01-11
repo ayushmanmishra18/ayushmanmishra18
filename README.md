@@ -12,8 +12,7 @@
 - 💻 Full Stack Developer (MERN + Next.js)  
 - 🧠 GenAI: LangChain, Gemini, OpenAI, Whisper, RAG  
 - ☁️ Cloud Experience: AWS S3, DynamoDB, Lambda, SageMaker  
-- 🛡 Cybersecurity enthusiast  
-- 🔥 300+ LeetCode problems solved  
+- 🔥 200+ LeetCode problems solved  
 - 🎯 Building AI + Cloud + Security powered applications  
 
 ---
@@ -44,19 +43,9 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmanmishra18&theme=tokyonight" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushmanmishra18&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushmanmishra18&theme=tokyonight&utcOffset=+5.30" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushmanmishra18&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushmanmishra18&theme=tokyonight" height="150" />
-</p>
+- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/ayushmanmishra18?style=flat)
+- 🍴 Forks: ![GitHub forks](https://img.shields.io/github/forks/ayushmanmishra18?style=flat)
+- 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/ayushmanmishra18?style=flat)
 
 
 ---
